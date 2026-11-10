@@ -1,0 +1,6 @@
+/target/
+/bin/
+/unpacked/
+/tmp/
+*.mcp
+*.log
