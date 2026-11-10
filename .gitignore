@@ -1,0 +1,10 @@
+/target/
+/bin/
+/unpacked/
+/tmp/
+*.mcp
+*.log
+/pycdc/build/
+pycdc/**/*.o
+pycdc/CMakeFiles/
+pycdc/CMakeCache.txt
